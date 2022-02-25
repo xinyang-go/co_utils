@@ -1,0 +1,7 @@
+# vsode
+.vscode
+build
+
+# clion
+.idea
+cmake-build-*
